@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FileReader
+comment0.text=\n\ This\ class\ has\ one\ function\ that\ will\ read\ a\ file\ (based\ on\ the\ given\ FileName)\ and\ will\ return\ an\ ArrayList\ of\ String\ objects\n\ where\ each\ string\ represents\ one\ line\ from\ the\ file.\ \n\ @author\ Kendra\ Walther\n\ email\:\ kwalther@usc.edu\n\ ITP\ 265,\ \n\ Assignment\ \#\#\n
+comment1.params=fileName
+comment1.target=java.util.ArrayList\ readFile(java.lang.String)
+comment1.text=\n\ This\ function\ will\ read\ from\ the\ given\ file\ (provided\ it\ is\ found)\ and\ return\ an\ \n\ ArrayList\ of\ Strings,\ with\ each\ spot\ in\ the\ list\ holding\ one\ line\ from\ the\ file\n\ @param\ fileName\n\ @return\ array\ of\ Strings,\ each\ String\ is\ one\ line\ from\ the\ file.\n
+numComments=2

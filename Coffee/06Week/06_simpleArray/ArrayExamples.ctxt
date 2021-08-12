@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ArrayExamples
+comment0.text=\n\ Write\ a\ description\ of\ class\ ArrayExamples\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=ArrayExamples()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ ArrayExamples\n
+comment2.params=
+comment2.target=void\ demo()
+comment3.params=name\ bday\ people
+comment3.target=void\ findPerson(java.lang.String,\ java.time.LocalDate,\ Person[])
+comment4.params=p\ people
+comment4.target=void\ findPerson(Person,\ Person[])
+numComments=5

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TravelProgram
+comment0.text=\n\ Write\ a\ description\ of\ class\ TravelProgram\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=TravelProgram()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ TravelProgram\n
+comment2.params=
+comment2.target=void\ demo()
+numComments=3

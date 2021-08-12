@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Bakery
+comment0.text=\n\ Write\ a\ description\ of\ class\ Bakery\ here.\n\ Note\:\ this\ starter\ code\ version\ is\ from\ the\ night\ owl\ class,\ so\ coffee\ will\ need\ to\ dive\ a\ little\ deeper\ into\ this.\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Bakery()
+comment1.text=\n\ Default\ Constructor\ for\ objects\ of\ class\ Bakery\n
+comment2.params=name
+comment2.target=Bakery(java.lang.String)
+comment3.params=
+comment3.target=void\ loadBestCustomers()
+comment4.params=
+comment4.target=void\ run()
+comment5.params=
+comment5.target=void\ helpCustomer()
+comment6.params=currentCustomer
+comment6.target=void\ chooseCupcakesToBuy(CreditCard)
+comment7.params=
+comment7.target=void\ makeCupcakes()
+comment8.params=c
+comment8.target=void\ addCupcake(Cupcake)
+numComments=9

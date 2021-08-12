@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GuessingGame
+comment0.text=\n\ Write\ a\ description\ of\ class\ GuessingGame\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=GuessingGame()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ GuessingGame\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=x\ y
+comment3.target=int\ add(int,\ int)
+comment4.params=
+comment4.target=void\ playGame()
+numComments=5

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=StudyGroup
+comment0.text=\n\ Write\ a\ description\ of\ class\ StudyGroup\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=StudyGroup()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ StudyGroup\n
+comment2.params=
+comment2.target=void\ printNamesOfMembers()
+numComments=3

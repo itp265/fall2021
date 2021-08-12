@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+
+<VBox alignment="CENTER" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/16" fx:controller="SecondSceneControl">
+   <children>
+      <Label fx:id="nameOfPerson" text="Person Name">
+         <font>
+            <Font size="45.0" />
+         </font>
+      </Label>
+      <ImageView fx:id="imageHolder" fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true" />
+      <Label text="Pick your favorite colors" />
+      <GridPane fx:id="redCB" onDragDetected="#colorSelected">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <CheckBox fx:id="reeCB" mnemonicParsing="false" text="REd" />
+            <CheckBox fx:id="blueCB" mnemonicParsing="false" text="Blue" GridPane.rowIndex="1" />
+            <CheckBox fx:id="yellowCB" mnemonicParsing="false" onAction="#colorSelected" text="Yellow" GridPane.columnIndex="1" />
+            <CheckBox fx:id="blackCB" mnemonicParsing="false" text="Black" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+            <CheckBox fx:id="greenCB" mnemonicParsing="false" text="Green" GridPane.rowIndex="2" />
+            <CheckBox fx:id="whiteCB" mnemonicParsing="false" text="White" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+         </children>
+      </GridPane>
+      <Label fx:id="messageData" />
+   </children>
+</VBox>

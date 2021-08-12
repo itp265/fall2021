@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Cupcake
+comment0.text=\n\ Write\ a\ description\ of\ class\ Cupcake\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=flavor\ frosting\ addSprinkles\ glutenFree\ price\ size
+comment1.target=Cupcake(java.lang.String,\ java.lang.String,\ boolean,\ boolean,\ double,\ int)
+comment1.text=\n\ Full\ Constructor\ for\ objects\ of\ class\ Cupcake\n
+comment10.params=
+comment10.target=java.time.LocalDate\ getDateMade()
+comment11.params=
+comment11.target=void\ print()
+comment2.params=flavor\ frosting
+comment2.target=Cupcake(java.lang.String,\ java.lang.String)
+comment3.params=flavor\ frosting\ sprinkles
+comment3.target=Cupcake(java.lang.String,\ java.lang.String,\ boolean)
+comment4.params=
+comment4.target=java.lang.String\ getFlavor()
+comment5.params=
+comment5.target=java.lang.String\ getIcing()
+comment6.params=
+comment6.target=double\ getPrice()
+comment7.params=updatedPrice
+comment7.target=void\ setPrice(double)
+comment8.params=
+comment8.target=int\ getSize()
+comment9.params=
+comment9.target=java.lang.String\ getSizeWord()
+numComments=12

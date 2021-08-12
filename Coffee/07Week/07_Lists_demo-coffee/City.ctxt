@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=City
+comment0.text=\n\ Write\ a\ description\ of\ class\ City\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=name\ country
+comment1.target=City(java.lang.String,\ java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ City\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=other
+comment3.target=boolean\ equals(City)
+numComments=4

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Person
+comment0.text=\n\ Write\ a\ description\ of\ class\ Person\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=name\ bday
+comment1.target=Person(java.lang.String,\ java.time.LocalDate)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Person\n
+comment2.params=name\ year\ month\ date
+comment2.target=Person(java.lang.String,\ int,\ int,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.lang.String\ getBdayString()
+comment5.params=
+comment5.target=java.time.LocalDate\ getBday()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=other
+comment7.target=boolean\ equals(Person)
+numComments=8

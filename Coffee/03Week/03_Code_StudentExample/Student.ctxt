@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\n\ Write\ a\ description\ of\ class\ Student\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=name\ theAge\ theMajor
+comment1.target=Student(java.lang.String,\ int,\ java.lang.String)
+comment1.text=\n\ Student\ Constructor\n\n\ @param\ name\ the\ name\ of\ the\ student\n\ @param\ theAge\ A\ parameter\n\ @param\ theMajor\ A\ parameter\n
+comment2.params=name\ theAge
+comment2.target=Student(java.lang.String,\ int)
+comment3.params=name
+comment3.target=Student(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=newMajor
+comment5.target=void\ setMajor(java.lang.String)
+comment6.params=value
+comment6.target=boolean\ setGpa(double)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\n\ Method\ toString\ -\ instead\ of\ classs\ type\ @\ memory\ location,\ make\ it\ look\ nice\n\n\ @return\ The\ return\ value\n
+comment8.params=other
+comment8.target=boolean\ equals(Student)
+comment9.params=
+comment9.target=void\ printName()
+comment9.text=\n\ This\ method\ will\ primt\ the\ student's\ name\ and\ the\ number\ of\ characters\ in\ the\ name\n\n
+numComments=10

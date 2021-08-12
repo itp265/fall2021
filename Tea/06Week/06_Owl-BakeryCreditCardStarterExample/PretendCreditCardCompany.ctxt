@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=PretendCreditCardCompany
+comment0.text=\n\ Write\ a\ description\ of\ class\ PretendCreditCardCompany\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=java.time.LocalDate\ generateExpiration()
+comment1.text=\n\ Helper\ function\ for\ the\ class\ that\ returns\ a\ day\ 5\ years\ in\ the\ future\n\ @return\n
+comment2.params=
+comment2.target=int\ generateCVV()
+comment3.params=
+comment3.target=double\ calculateLimit()
+comment4.params=
+comment4.target=double\ getInterestRate()
+comment5.params=issuer
+comment5.target=java.lang.String\ generateCardNumber(CardIssuer)
+comment5.text=\n\ Class\ level\ method\ (no\ object\ needed)\ will\ generate\ a\ unique\ (for\ this\ run\ of\ the\ program)\n\ credit\ card\ number\n\ @param\ issuer\n\ @return\n
+numComments=6

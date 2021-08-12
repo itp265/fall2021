@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Bakery
+comment0.text=\n\ Write\ a\ description\ of\ class\ Bakery\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Bakery()
+comment1.text=\n\ Default\ Constructor\ for\ objects\ of\ class\ Bakery\n
+comment2.params=name
+comment2.target=Bakery(java.lang.String)
+comment3.params=
+comment3.target=void\ makeCupcakes()
+comment4.params=
+comment4.target=void\ findNoahsCupcake()
+comment5.params=
+comment5.target=void\ makeSpecialCupcakes()
+comment6.params=c
+comment6.target=void\ addCupcake(Cupcake)
+numComments=7

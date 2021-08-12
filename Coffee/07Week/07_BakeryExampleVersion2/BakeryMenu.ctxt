@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=BakeryMenu
+comment0.text=\n\ Enumeration\ class\ BakeryMenu\ -\ write\ a\ description\ of\ the\ enum\ class\ here\n\n\ @author\ (your\ name\ here)\n\ @version\ (version\ number\ or\ date\ here)\n
+comment1.params=name\ c\ f
+comment1.target=BakeryMenu(java.lang.String,\ Cake,\ Frosting)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=Cake\ getCakeType()
+comment4.params=
+comment4.target=Frosting\ getFrosting()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
